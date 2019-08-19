@@ -1,6 +1,6 @@
 # Task
 
-## Ensure you have python 3 installed on your machine - [https://www.python.org/downloads/]
+## Ensure you have [python 3](https://www.python.org/downloads/) installed on your machine
 
 1. Fork this repository
 2. Create a new branch named "feature-1"
