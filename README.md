@@ -8,3 +8,30 @@
 4. Run the command `python python-server.py` to ensure it works
 5. Merge the feature into master
 6. Repeat step 5
+
+
+_this is italic_
+**this is bold**
+
+# header 1
+## header 2
+### header 3
+
+>i don't know what this is
+
+* bullet
+* list
+
+1. numbered
+2. list 
+
+This is
+
+a break
+
+paragraph.
+
+
+this is..
+a break..
+paragraph
