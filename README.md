@@ -35,3 +35,21 @@ paragraph.
 this is  
 a break  
 paragraph
+
+<img align="left" width="100" height="100" src="https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg">
+
+
+<p align="center">
+  <img width="460" height="300" src="https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2018/11/13154625/20181112-SHANK3monkey-844.jpg">
+</p>
+
+
+<details>
+<summary>"Click to expand"</summary>
+this is hidden
+</details>
+
+| Column1     | Column2     |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
