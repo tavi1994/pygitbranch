@@ -32,6 +32,6 @@ a break
 paragraph.
 
 
-this is..
-a break..
+this is  
+a break  
 paragraph
